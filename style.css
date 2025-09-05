@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: x-large;
+}
+
+table{
+    width: 400px;
+    border-collapse: collapse;
+    position: relative;
+    margin: auto;
+}
+
+thead {
+    background-color: rgba(223, 223, 49, 0.466);
+}
+
+thead, td, th{
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    text-align: center;
+}
